@@ -1,5 +1,0 @@
-job:
-  stage: test
-  trigger:
-    project: "qa-test/qa-learning/popok/cozy-test"
-    branch: "autotest"
